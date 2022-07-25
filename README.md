@@ -1,2 +1,2 @@
 # ProjetoGUIImovel
-Projeto contendo código do projeto de gestão de imóveis
+Projeto de gestão de imóveis
